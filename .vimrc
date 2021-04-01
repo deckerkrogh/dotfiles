@@ -4,3 +4,5 @@ set relativenumber
 
 sytax on
 colo slate
+set tabstop=4
+set shiftwidth=4
