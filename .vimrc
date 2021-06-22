@@ -1,4 +1,5 @@
-"Need to push the rest of vimrc, but so I don't forget:
+" Need to push the rest of vimrc, but so I don't forget:
+" Another plugin I want to try out: nerdtree
 
 " for getting the defaults:
 source $VIMRUNTIME/defaults.vim
