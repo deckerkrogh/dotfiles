@@ -5,6 +5,7 @@
 source $VIMRUNTIME/defaults.vim
 
 set relativenumber
+set ruler
 
 sytax on
 colo slate
